@@ -1,4 +1,4 @@
-1. Find and display 10 examples of vehicles with varying degrees of visibility in the point-cloud
+**1. Find and display 10 examples of vehicles with varying degrees of visibility in the point-cloud**
 
 Large vehicles up close with trailers show up well, however, they end up causing quite a bit of obstruction.  
 <img src="img/s1p2_images/Image1.png"/>
@@ -30,7 +30,7 @@ Trucks that have equipment on them often have that equipment show up in the lida
 Cars from the side are often visible quite far away, as the sides are flat.  
 <img src="img/s1p2_images/image9_side_far.png"/>
 
-2. Identify vehicle features that appear as a stable feature on most vehicles (e.g. rear-bumper, tail-lights) and describe them briefly. Also, use the range image viewer from the last example to underpin your findings using the lidar intensity channel.
+**2. Identify vehicle features that appear as a stable feature on most vehicles (e.g. rear-bumper, tail-lights) and describe them briefly. Also, use the range image viewer from the last example to underpin your findings using the lidar intensity channel.**
 
 As somewhat given above, rear bumpers, front bumpers, flat sides, tail lights, and plates are often visible and stable from quite far away, as are reflective trailers.  
 <img src="img/s1p2_images/intensity1 - bumber, tailights,plates.png"/>
